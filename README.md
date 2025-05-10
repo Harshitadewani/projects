@@ -19,5 +19,5 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshitadewani/tic-tac-toe.git
-   cd tic-tac-toe
+  git clone https://github.com/Harshitadewani/projects.git
+  cd projects/tic tac toe
